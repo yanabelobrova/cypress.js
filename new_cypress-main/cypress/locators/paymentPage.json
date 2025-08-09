@@ -1,0 +1,8 @@
+{
+    "number":".payment_form_card_form > :nth-child(2) > .style_1_base_input",
+    "date": ":nth-child(1) > .style_1_base_input",
+    "cvv": ".payment_form_card_form_inputs > :nth-child(2) > .style_1_base_input",
+    "name": ".payment_form_card_form_input_last > .style_1_base_input",
+    "buttonPayment": ".style_1_base_button_payment_body > .style_1_base_button_payment",
+    "pushCode": "input[placeholder='00000']"
+}

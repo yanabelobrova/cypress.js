@@ -1,0 +1,10 @@
+{ 
+  "vk_login": "[href^='https://id.vk.com/auth'] > .auth_content_social_icon",
+  "yandex_login": "[href^='https://oauth.yandex.ru/authorize'] > .auth_content_social_icon",
+  "email_input": "#k_email",
+  "password_input": "#k_password",
+  "restore_password_link": ".style_1_popup_white_link_left",
+  "login_button": ".MuiButton-root",
+  "register_link": ".style_fix_1",
+  "footer": ".footer_logo"
+}
